@@ -5,7 +5,7 @@ workers/
 server/
 docker/
 scripts/
-admin/
+
 .github/workflows/
 
 # 测试相关
